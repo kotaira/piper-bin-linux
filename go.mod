@@ -1,4 +1,4 @@
-module github.com/amitybell/piper-bin-linux
+module github.com/kotaira/piper-bin-linux
 
 go 1.21
 
